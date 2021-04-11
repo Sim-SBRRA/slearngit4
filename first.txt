@@ -3,3 +3,4 @@ add more text
 second update test global pwd
 third pwd check update
 new commit
+test alias
