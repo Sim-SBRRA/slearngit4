@@ -6,3 +6,4 @@ new commit
 test alias
 Add  new test for diff
 add more for diff
+egit commit
